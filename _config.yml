@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://gdtm86.github.io
+title: Scalable Data Science
+paginate: 10
