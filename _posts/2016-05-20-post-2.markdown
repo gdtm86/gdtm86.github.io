@@ -1,0 +1,10 @@
+---
+published: true
+title: Post 2
+layout: post
+---
+# Post 2
+
+* part1
+* part2
+* part3
